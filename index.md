@@ -1,3 +1,11 @@
+---
+title: "VKU: A Textbook for Road Safety and Awareness"
+author: "Dario Lichtensteiger / DriveLab"
+date: "2025-02-04"
+geometry: margin=2cm
+fontsize: 11pt
+---
+
 <body class="bg-cream text-charcoal scroll-smooth overflow-x-hidden">
     <!-- Fixed Table of Contents -->
     <nav class="toc-fixed" id="toc">
@@ -919,4 +927,5 @@
 
 
 </body>
+
 
